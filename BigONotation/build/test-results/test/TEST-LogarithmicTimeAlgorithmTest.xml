@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LogarithmicTimeAlgorithmTest" tests="25" skipped="0" failures="0" errors="0" timestamp="2021-04-29T20:00:44" hostname="ECHU_PC" time="1.019">
+  <properties/>
+  <testcase name="binarySearchItem[0]" classname="LogarithmicTimeAlgorithmTest" time="0.138"/>
+  <testcase name="binarySearchItem[1]" classname="LogarithmicTimeAlgorithmTest" time="0.005"/>
+  <testcase name="binarySearchItem[2]" classname="LogarithmicTimeAlgorithmTest" time="0.024"/>
+  <testcase name="binarySearchItem[3]" classname="LogarithmicTimeAlgorithmTest" time="0.01"/>
+  <testcase name="binarySearchItem[4]" classname="LogarithmicTimeAlgorithmTest" time="0.003"/>
+  <testcase name="binarySearchItem[5]" classname="LogarithmicTimeAlgorithmTest" time="0.006"/>
+  <testcase name="binarySearchItem[6]" classname="LogarithmicTimeAlgorithmTest" time="0.004"/>
+  <testcase name="binarySearchItem[7]" classname="LogarithmicTimeAlgorithmTest" time="0.007"/>
+  <testcase name="binarySearchItem[8]" classname="LogarithmicTimeAlgorithmTest" time="0.188"/>
+  <testcase name="binarySearchItem[9]" classname="LogarithmicTimeAlgorithmTest" time="0.039"/>
+  <testcase name="binarySearchItem[10]" classname="LogarithmicTimeAlgorithmTest" time="0.015"/>
+  <testcase name="binarySearchItem[11]" classname="LogarithmicTimeAlgorithmTest" time="0.045"/>
+  <testcase name="binarySearchItem[12]" classname="LogarithmicTimeAlgorithmTest" time="0.055"/>
+  <testcase name="binarySearchItem[13]" classname="LogarithmicTimeAlgorithmTest" time="0.011"/>
+  <testcase name="binarySearchItem[14]" classname="LogarithmicTimeAlgorithmTest" time="0.047"/>
+  <testcase name="binarySearchItem[15]" classname="LogarithmicTimeAlgorithmTest" time="0.033"/>
+  <testcase name="binarySearchItem[16]" classname="LogarithmicTimeAlgorithmTest" time="0.076"/>
+  <testcase name="binarySearchItem[17]" classname="LogarithmicTimeAlgorithmTest" time="0.038"/>
+  <testcase name="binarySearchItem[18]" classname="LogarithmicTimeAlgorithmTest" time="0.06"/>
+  <testcase name="binarySearchItem[19]" classname="LogarithmicTimeAlgorithmTest" time="0.02"/>
+  <testcase name="binarySearchItem[20]" classname="LogarithmicTimeAlgorithmTest" time="0.017"/>
+  <testcase name="binarySearchItem[21]" classname="LogarithmicTimeAlgorithmTest" time="0.013"/>
+  <testcase name="binarySearchItem[22]" classname="LogarithmicTimeAlgorithmTest" time="0.027"/>
+  <testcase name="binarySearchItem[23]" classname="LogarithmicTimeAlgorithmTest" time="0.018"/>
+  <testcase name="binarySearchItem[24]" classname="LogarithmicTimeAlgorithmTest" time="0.039"/>
+  <system-out><![CDATA[Searching 4300 in array[10], found at position 3
+	binarySearchItem[0] with nSize =10 completed in 12376200 ns
+Searching 3624 in array[200], found at position 68
+	binarySearchItem[1] with nSize =200 completed in 0 ns
+Searching 2183 in array[300], found at position 65
+	binarySearchItem[2] with nSize =300 completed in 1001400 ns
+Searching 6826 in array[500], found at position 335
+	binarySearchItem[3] with nSize =500 completed in 0 ns
+Searching 9132 in array[800], found at position 724
+	binarySearchItem[4] with nSize =800 completed in 997000 ns
+Searching 6780 in array[1000], found at position 692
+	binarySearchItem[5] with nSize =1000 completed in 0 ns
+Searching 7852 in array[2000], found at position 1553
+	binarySearchItem[6] with nSize =2000 completed in 0 ns
+Searching 9438 in array[3000], found at position 2835
+	binarySearchItem[7] with nSize =3000 completed in 997900 ns
+Searching 1614 in array[4000], found at position 618
+	binarySearchItem[8] with nSize =4000 completed in 48919800 ns
+Searching 4387 in array[5000], found at position 2159
+	binarySearchItem[9] with nSize =5000 completed in 17474600 ns
+Searching 6090 in array[6000], found at position 3701
+	binarySearchItem[10] with nSize =6000 completed in 1001800 ns
+Searching 3077 in array[7000], found at position 2145
+	binarySearchItem[11] with nSize =7000 completed in 1995700 ns
+Searching 1049 in array[8000], found at position 842
+	binarySearchItem[12] with nSize =8000 completed in 20472000 ns
+Searching 3339 in array[9000], found at position 3009
+	binarySearchItem[13] with nSize =9000 completed in 996400 ns
+Searching 3644 in array[10000], found at position 3592
+	binarySearchItem[14] with nSize =10000 completed in 1995500 ns
+Searching 2923 in array[11000], found at position 3243
+	binarySearchItem[15] with nSize =11000 completed in 2998300 ns
+Searching 1814 in array[12000], found at position 2126
+	binarySearchItem[16] with nSize =12000 completed in 997800 ns
+Searching 4733 in array[13000], found at position 6263
+	binarySearchItem[17] with nSize =13000 completed in 16470100 ns
+Searching 171 in array[14000], found at position 230
+	binarySearchItem[18] with nSize =14000 completed in 6982100 ns
+Searching 3918 in array[15000], found at position 5799
+	binarySearchItem[19] with nSize =15000 completed in 2006500 ns
+Searching 5922 in array[16000], found at position 9464
+	binarySearchItem[20] with nSize =16000 completed in 0 ns
+Searching 482 in array[17000], found at position 842
+	binarySearchItem[21] with nSize =17000 completed in 0 ns
+Searching 2967 in array[18000], found at position 5414
+	binarySearchItem[22] with nSize =18000 completed in 2562100 ns
+Searching 23 in array[19000], found at position 52
+	binarySearchItem[23] with nSize =19000 completed in 2991100 ns
+Searching 9725 in array[20000], found at position 19433
+	binarySearchItem[24] with nSize =20000 completed in 1995300 ns
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
